@@ -10,6 +10,9 @@ Recomendado instalar
 
 pip install PySide6
 
+
+pyside6-uic ui_organizador.ui -o ui_main.py
+
 Videos referência para instalação do QT-Designer 
 https://www.youtube.com/watch?v=-hPD6IpIvqg
 
